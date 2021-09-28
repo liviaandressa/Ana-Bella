@@ -1,0 +1,46 @@
+body{
+    background-image: url("fotos/fundo.png"); /* cor no fundo caso a imagem não carregue*/
+    font: 16px Verdana, Arial, Helvetica, sans-serif;
+  
+  }
+  #principal{
+    width: 900px;
+  }
+  
+   .Menu{
+     width: auto;
+     background-color: #BDBDBD; /*cor do padding do fundo do menu*/
+     padding: 15px; /*espaçamento do menu - cor*/
+   }
+  
+  a{ /* links do menu */
+    padding: 5px; /*espaçamento dos links*/
+    text-decoration: none;
+    font-weight: bold;
+    color: #2E2E2E; /* cor da fonte - texto*/
+  }
+  
+  h1{
+    color: #2E2E2E;
+    font-size: 1.2em;
+  }
+  
+  .conteudo{
+    background: #DCDCDC;
+    padding: 10px;
+    color: #363636; /*cor ds fonte dos paragrafos*/
+  }
+  
+  .rodape{
+    text-align: center;
+    color:black;
+    background-color: #525151;
+    
+  }
+  
+  .img-campanha{ /* classe da página campanhas publicitárias*/
+    border: solid 10px;
+    color: #8d8585;
+  
+  }
+  
